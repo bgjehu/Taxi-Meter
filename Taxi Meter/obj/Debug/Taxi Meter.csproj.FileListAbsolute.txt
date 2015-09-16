@@ -1,0 +1,12 @@
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\bin\Debug\Taxi Meter.exe.config
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi_Meter.mainframe.resources
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi_Meter.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi Meter.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\bin\Debug\Taxi Meter.exe
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\bin\Debug\Taxi Meter.pdb
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi Meter.exe
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi Meter.pdb
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\bin\Debug\Taxi Meter.exe.manifest
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\bin\Debug\Taxi Meter.application
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi Meter.exe.manifest
+D:\Dropbox\Dev\Stuffs\Taxi Meter\Taxi Meter\obj\Debug\Taxi Meter.application

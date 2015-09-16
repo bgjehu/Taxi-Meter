@@ -1,0 +1,83 @@
+Customer: BG(+1-3146000288)
+Drive from 63026 to 65401
+3/13/2014 5:22:52 AM START
+3/13/2014 5:22:53 AM STOP
+0 Mins Drive: $0 = 0 x 0.3
+Total: $0
+
+**********
+
+Customer: BG(+1-3146000288)
+Drive from SFO to LA
+3/13/2014 5:53:28 AM START
+3/13/2014 5:53:29 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/13/2014 5:53:29 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/13/2014 5:53:30 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/13/2014 5:53:30 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/13/2014 5:53:30 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/13/2014 5:53:30 AM STOP
+Total: $0
+
+Customer: Robert(+86-13503020488)
+Drive from Canton to Beijing
+3/13/2014 5:53:58 AM START
+3/13/2014 5:54:00 AM STOP
+0 Mins Drive: $0 = 0 x 0.3
+Total: $0
+
+**********
+
+Customer: 0(+1-3146000288)
+Drive from 0 to 0
+3/23/2014 10:22:05 AM START
+3/23/2014 10:22:07 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:07 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:07 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:08 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:09 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM PAUSE
+0 Mins Drive: $0 = 0 x 0.3
+3/23/2014 10:22:10 AM RESUME
+0 Mins Park: $0 = 0 x 0.3
+**********
+
